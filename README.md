@@ -1,5 +1,11 @@
-# algoviz
-Algorithm visualizer in C++
+<div align="center">
+    <h1>Algoviz</h1>
+    <p>Algorithms visualizer in C++</p>
+
+![c++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+
+</div>
+
 
 ## QuickSort
 
